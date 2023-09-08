@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ParshwaDK
 - 👀 I’m interested in Ethical Hacking 
-- 🌱 I’m currently learning HTML, Js, PHP& SQL
+- 🔱 I’m currently Mastering Python & SQL
+- 🚀 I'm currently learning C++ & C# 
 - 💞️ I’m pursuing graduation in B.com(IT)FY
 
 <!---
